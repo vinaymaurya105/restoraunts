@@ -1,0 +1,107 @@
+body {
+  font-family: serif;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-div {
+  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/1a/18/3a/cb/restaurant-le-47.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.nav-div p {
+  font-weight: 300;
+  font-size: 19px;
+}
+
+#content-div {
+  margin-top: 50px;
+}
+
+#mainnavbar .navbar-brand {
+  color: #fff;
+  font-weight: 600;
+  margin: 0 300px 0 60px;
+}
+
+#mainnavbar .nav-link {
+  color: white;
+  padding: 15px;
+  margin-left: 10px;
+}
+
+#mainnavbar .nav-link:hover {
+  color: #ffd300;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 3.2rem;
+  padding: 130px 0 20px 0;
+  color: #fff;
+  width: 700px;
+  margin-left: 320px;
+}
+
+input {
+  height: 45px;
+  width: 400px;
+  border: 1px solid gray;
+  outline: #ffd300;
+  margin: 120px 0 50px 300px;
+  padding: 10px;
+}
+button {
+  height: 45px;
+  width: 250px;
+  border: none;
+  outline: #ffd300;
+  margin-top: 120px;
+  padding: 10px;
+  background-color: #fb8500;
+  margin-left: -5px;
+}
+
+.heading-p {
+  color: #fb8500;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.heading {
+  font-size: 35px;
+  color: #878787;
+  font-weight: 200;
+}
+
+.footer {
+  background-color: #2b2d42;
+  color: white;
+}
+.footer h3 {
+  margin-top: 30px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #878787;
+}
+.footer li {
+  margin-top: 15px;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.about {
+  width: 2000px;
+}
+
+.text {
+  margin-left: 30px;
+}
+.about img {
+  height: 100px;
+}
+
+/* #mainnavbar .scrolled {
+  background-color: #023047;
+} */
